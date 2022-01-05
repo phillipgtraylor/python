@@ -30,7 +30,7 @@ def pick_a_word():
 def get_guess(word):
     print_word_with_blanks(word)
     print('lives remaining: ' + str(lives_remaining))
-    guess = input(' Guess a letter or whole word?')
+    guess = input(' Guess 1 letter or the whole word.')
     return guess
 
 def print_word_with_blanks(word) :
