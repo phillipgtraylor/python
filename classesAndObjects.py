@@ -14,7 +14,7 @@ class Vehicle:
         return desc_str
 
 
-# your code goes here
+# assign values for description
 car1 = Vehicle()
 car2 = Vehicle()
 
